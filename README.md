@@ -1,6 +1,6 @@
-# Three Webpack Boilerplate
-
-Three webpack 5 boilerplate using Babel, PostCSS, Sass and Gsap.
+# Stylized Shader Starter Files
+## https://youtu.be/V5UllFImvoE
+[![Dynamic Character Controller With Three.js](https://user-images.githubusercontent.com/64514807/236695400-6184533f-2c5a-4fc2-bd5a-48bd691a3068.png)](https://youtu.be/V5UllFImvoE)
 
 ## Installation
 
